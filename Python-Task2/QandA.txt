@@ -1,0 +1,13 @@
+Questions and Answers:
+
+a)Why is list used?
+=>List is a built-in datastructure in python and it is a collection of different types of elements such as integer, float, string, etc enclosed in a square bracket([ ]).
+
+b)How do lists and sets differ?
+=>The list is the most versatile datatype available in Python, which can be written as a list of comma-separated values (items) between square brackets. Important thing about a list is that the items in a list need not be of the same type.A set in Python is a unordered collection of data.
+Lists supports indexing but sets does not support indexing.
+Lists does not remove duplicate values but sets removes duplicate values.
+Lists are faster than sets.
+
+c)Application of Dictionaries with a real world example.
+=>The real world example of Dictionaries is shop item list where the item no. of all the items acts as a keys in the Dictionary and Name of items are acts as a values in the Dictionary.
